@@ -1,0 +1,5 @@
+/.agents
+/.gemini
+/node_modules
+/backup/.env
+/backup/.env.example

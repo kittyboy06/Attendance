@@ -1,0 +1,12 @@
+period_number,name,start_time,end_time,is_academic_period
+1,Period 1,08:30,09:20,true
+2,Period 2,09:20,10:00,true
+3,Break,10:00,10:10,false
+4,Period 3,10:10,10:50,true
+5,Period 4,10:50,11:40,true
+6,Lunch,11:40,12:20,false
+7,Period 5,12:20,13:10,true
+8,Period 6,13:10,13:50,true
+9,Break,13:50,14:00,false
+10,Period 7,14:00,14:50,true
+11,Period 8,14:50,15:30,true
